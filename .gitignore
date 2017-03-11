@@ -1,3 +1,16 @@
+# React
+.DS_STORE
+node_modules
+*~
+*.pyc
+static
+.grunt
+build/
+
+*.log*
+.idea
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
